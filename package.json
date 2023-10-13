@@ -1,0 +1,21 @@
+{
+  "name": "dom-manipulation1",
+  "version": "1.0.0",
+  "description": "",
+  "type" : "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertLeipzig/dom-manipulation1.git"
+  },
+  "keywords": [],
+  "author": "albertleipzig <albertclemvill@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/AlbertLeipzig/dom-manipulation1/issues"
+  },
+  "homepage": "https://github.com/AlbertLeipzig/dom-manipulation1#readme"
+}

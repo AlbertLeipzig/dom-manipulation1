@@ -1,0 +1,12 @@
+.spinner {
+  height: 40px;
+  width: 400px;
+  background-color: lightblue;
+  margin-bottom: 200px;
+}
+
+progress {
+  width: 80vw;
+  height: 5vh;
+  border-radius: 20px;
+}
