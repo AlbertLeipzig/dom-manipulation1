@@ -1,8 +1,9 @@
 # DOM manipulation I
 
-- burger menu
-- caroussel
-- change style according to data
-- spinner by loading
-- drag and drop
-- cool card - galerie. The cards have 2 sides
+    - [] 1.spinner by loading
+    - [] change style according to data
+    - [] burger menu
+    - [] caroussel
+    - [] drag and drop
+    - [] rating
+    - [] progress bar
